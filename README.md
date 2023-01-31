@@ -16,4 +16,4 @@ My favorite team sport is Tennis we can play these sport single or double.In the
     - Manika Batra
     - Thakkar
 
-    [AboutMe](https://github.com/DivyaGorantl/assignment2-Gorantla/blob/main/IMG_20230130_223349.jpg)
+[AboutMe](https://github.com/DivyaGorantl/assignment2-Gorantla/blob/main/IMG_20230130_223349.jpg)
