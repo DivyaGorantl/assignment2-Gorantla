@@ -6,9 +6,12 @@ My favorite team sport is Tennis we can play these sport single or double.In the
 ------------
 
 # Orderedlist
-Chennai Lions
-1.Sathiyan Ganasekaran
-Sreeja Akula
-Harmeet Desai
+1. Chennai Lions
+    1. Sathiyan Ganasekaran
+    3. Sreeja Akula
+    4. Harmeet Desai
 
-# Unoderdlist
+# Unordered list
+- Dareboubles
+    - Manika Batra
+    - Thakkar
