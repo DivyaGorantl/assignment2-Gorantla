@@ -28,3 +28,10 @@ The countries i want to vist,Reson and the days i want to live in that countries
 |  Canada   |  To visit Waterfalls to enjoy nature |10 days |
 |  France   | I want to see eiffel tower  | 15 days |
 |  Sweden   | Peaceful place to live  | 20 days |
+
+-----------
+
+# Pithy Quotes
+>The nice thing about egotists is that they don't talk about other people -Lucillen S. Harper
+
+>>If you cann't be kind,atleast be vague-Judith Martin
